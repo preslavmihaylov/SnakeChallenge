@@ -1,4 +1,4 @@
-# codeweek-varna-2017
+# Snake Challenge
 This challenge is an idea I thought of while creating my presentation for EU Code Week Varna 2017.
 During the conference, I created the classical Snake game live and left some tasks for attendees to complete themselves.
 
