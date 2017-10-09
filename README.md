@@ -12,12 +12,12 @@ Also, I haven't completed this game fully. I have left some things which are **u
 
 I hope you have fun going through this challenge and I hope this lightens up your passion for programming and computer science just like it did for me years ago.
 
-# Challenges left for attendees after the conference
+# The Challenges
 Currently, you have a functioning snake game. But there are some bugs left and areas for improvement. I have outlined some of the issues present in the game currently, and have suggested some improvements. However, if you have any ideas of your own, feel free to extend the game as you please.
 
 Also, you can submit a pull request to this repo if you want me to make a code review for you and highlight some improvements in your code. If you have any other issues with anything for creating the game, feel free to contact me.
 
-# Challenges
+## The Improvements you can make
 * Snake should not be able to move "backwards" and eat itself
 * apple should not spawn over snake
 * make apple respawn after timeout
