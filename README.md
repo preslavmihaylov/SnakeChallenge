@@ -26,3 +26,6 @@ Also, you can submit a pull request to this repo if you want me to make a code r
 * Display score at top right
 * Add border walls
 * (For Pros) Add a second player
+
+# Contacts
+If you have any questions or need help with anything, feel free to contact me at preslav@pmihaylov.com
