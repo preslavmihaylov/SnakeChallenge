@@ -13,7 +13,8 @@ Also, I haven't completed this game fully. I have left some things which are **u
 I hope you have fun going through this challenge and I hope this lightens up your passion for programming and computer science just like it did for me years ago.
 
 # What we have so far
-I have recorded a screencast for you, which is available here: https://www.youtube.com/watch?v=8HjcqVZyCCs&feature=youtu.be
+I have recorded a screencast for you, which is available here: 
+https://www.youtube.com/watch?v=8HjcqVZyCCs&feature=youtu.be
 
 Go through it in order to get a grasp of how to make your own game in C#. I suggest you write the code I write in the video while watching it. If you have a second monitor, that will help a lot. Tne end result should be something like this:
 
