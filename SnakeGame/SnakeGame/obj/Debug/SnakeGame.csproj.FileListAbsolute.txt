@@ -1,0 +1,5 @@
+E:\Programming\repositories\codeweek-varna-2017\SnakeGame\SnakeGame\bin\Debug\SnakeGame.exe
+E:\Programming\repositories\codeweek-varna-2017\SnakeGame\SnakeGame\bin\Debug\SnakeGame.pdb
+E:\Programming\repositories\codeweek-varna-2017\SnakeGame\SnakeGame\obj\Debug\SnakeGame.csprojResolveAssemblyReference.cache
+E:\Programming\repositories\codeweek-varna-2017\SnakeGame\SnakeGame\obj\Debug\SnakeGame.exe
+E:\Programming\repositories\codeweek-varna-2017\SnakeGame\SnakeGame\obj\Debug\SnakeGame.pdb
