@@ -19,6 +19,7 @@ https://www.youtube.com/watch?v=8HjcqVZyCCs&feature=youtu.be
 
 Go through it in order to get a grasp of how to make your own game in C#. I suggest you write the code I write in the video while watching it. If you have a second monitor, that will help a lot. Tne end result should be something like this:
 
+![Snake Game](http://url/to/img.png)
 
 # The Challenges
 Currently, you have a functioning snake game. But there are some bugs left and areas for improvement. I have outlined some of the issues present in the game currently, and have suggested some improvements. However, if you have any ideas of your own, feel free to extend the game as you please.
